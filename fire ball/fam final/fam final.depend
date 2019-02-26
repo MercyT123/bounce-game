@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551043943 source:c:\users\etgegn\documents\fam final\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<SFML/Window.hpp>
+
